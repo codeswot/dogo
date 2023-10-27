@@ -188,3 +188,8 @@ to run the test simply run
 - flutter_bloc (statemanagment)
 - json_serializable (serialise data)
 - mocktail (mock dog api)
+
+## Resources
+for this app i utelised a decouple aproach to seperarte the api logic as a pacage of its own, the docs are bellow
+1. [Dogo API reference](https://github.com/codeswot/dogo/tree/main/packages/dogo_api)
+2. [Dogo Repository reference](https://github.com/codeswot/dogo/tree/main/packages/dogos_repository)
