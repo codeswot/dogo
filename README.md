@@ -130,8 +130,9 @@ To get started with the DogoApp, follow these steps:
 1.  Launch the app on your device or emulator.
     
 2.  You will be presented with the main screen, which displays a random dog image.
+![Home Page](https://github.com/codeswot/dogo/blob/main/assets/ss_home.png)
     
-3.  Explore the app's features using the navigation options provided.
+4.  Explore the app's features using the navigation options provided.
     
 
 ## Usage
