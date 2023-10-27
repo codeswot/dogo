@@ -10,10 +10,7 @@
 -  [Features](#features)
 -  [Installation](#installation)
 -  [Getting Started](#getting-started)
--  [Usage](#usage)
--  [Examples](#examples)
--  [Contributing](#contributing)
--  [License](#license)
+-  [Test](#test)
 
 ## Overview
 
@@ -73,9 +70,8 @@ DogoApp is a Dart application that provides a user-friendly interface to interac
 - [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+- [Test](#test)
+
 
 ## Overview
 
@@ -127,66 +123,68 @@ The app should now be up and running on your device or emulator.
 
 To get started with the DogoApp, follow these steps:
 
+### Home (random dogo)
+
 1.  Launch the app on your device or emulator.
     
 2.  You will be presented with the main screen, which displays a random dog image.
 ![Home Page](https://github.com/codeswot/dogo/blob/main/assets/ss_home.png)
     
 4.  Explore the app's features using the navigation options provided.
-    
-
-## Usage
-
-DogoApp provides a user-friendly interface for interacting with the Dogo API. Here are some common actions you can perform within the app:
-
--   **View Random Dog Images**: The main screen displays a random dog image. Tap the "Refresh" button to get a new random image.
-    
--   **Select a Dog Breed**: Navigate to the "Breeds" section to view a list of dog breeds. Tap on a breed to see images related to that breed.
-    
--   **View Sub-Breeds**: In the breed details screen, you can tap on a specific breed to view its sub-breeds.
-    
--   **Gallery View**: Navigate to the gallery to view a collection of dog images based on a selected breed or sub-breed.
-    
-
-## Examples
-
-Here are some examples of how to use the DogoApp:
-
-### View Random Dog Image
-1.  Launch the app.
-2.  The main screen displays a random dog image.
-        
+            
 
 ### Select a Dog Breed
 
 1.  Launch the app.
     
-2.  Navigate to the "Breeds" section.
+2.  Tap on the "Dogo Breed" Tile.
     
 3.  Select a dog breed from the list.
     
-4.  View images related to the selected breed.
+4.  Home page will refresh with selected breed
     
 
 ### View Sub-Breeds
 
 1.  Launch the app.
     
-2.  Navigate to the "Breeds" section.
+2.  Tap on the "Dogo Sub Breed" Tile.
     
-3.  Select a dog breed.
+3.  Select a dog breed from the list.
+
+4. Select a dog sub breed from the next list.
     
-4.  View a list of sub-breeds for the selected breed.
+5.  Home page will refresh with selected breed,sub breed
     
 
-### Gallery View
+### Gallery View (List of Dog images)
+#### By Breed
 
 1.  Launch the app.
     
-2.  Navigate to the "Gallery" section.
+2.  Tap  the "Breed" Tile.
     
-3.  Choose to view images based on a specific breed or sub-breed.
+3.  Select a dog breed from the list.
     
 4.  Browse through the collection of dog images.
 
-flutter test
+#### By Sub Breed
+
+1.  Launch the app.
+    
+2.  Tap  the "Sub Breed" Tile.
+    
+3.  Select a dog breed from the list.
+4. Select a dog sub breed for the selected breed from the list.
+    
+5.  Browse through the collection of dog images.
+
+## Test
+to run the test simply run
+```flutter test```
+
+
+## Tools used
+- flutter_bloc (statemanagment)
+- json_serializable (serialise data)
+- mocktail (mock dog api)
