@@ -66,15 +66,14 @@ To use the DogoApp, follow these installation instructions:
 2.  Navigate to the project directory:     
     `cd dogo`     
 3.  Install the required dependencies:
-    `flutter pub get` 
-    
+    `flutter pub get`     
 4.  Launch the app:
-    shellCopy code
-    `flutter run` ```
-
-   <img src="https://github.com/codeswot/dogo/blob/main/assets/dogo.gif" alt="home" width="200"/>
+    `flutter run`
+   
 
 The app should now be up and running on your device or emulator.
+
+<img src="https://github.com/codeswot/dogo/blob/main/assets/dogo.gif" alt="home" width="200"/>
 
 ## Getting Started
 
