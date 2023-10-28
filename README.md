@@ -36,33 +36,6 @@ DogoApp the main app for the challenge user interface built on top of the Dogo A
 
   
 
-## Installation
-
-  
-
-To use the DogoApp, follow these installation instructions:
-1. Clone the repository to your local machine:
-```shell
-git clone https://github.com/codeswot/dogo.git
-
-cd dogo/
-```
-2. Install the required dependencies: 
- ```shell
- flutter pub get
-  flutter run
-  ```
-
-
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Test](#test)
 
 
 ## Overview
@@ -90,22 +63,13 @@ To use the DogoApp, follow these installation instructions:
    ```shell
    git clone https://github.com/your-username/dogo-app.git`` 
 
-2.  Navigate to the project directory:
-    
-    shellCopy code
-    
-    `cd dogo-app` 
-    
+2.  Navigate to the project directory:     
+    `cd dogo`     
 3.  Install the required dependencies:
-    
-    shellCopy code
-    
     `flutter pub get` 
     
 4.  Launch the app:
-    
     shellCopy code
-    
     `flutter run` 
     
 
@@ -134,7 +98,7 @@ To get started with the DogoApp, follow these steps:
     
 3.  Select a dog breed from the list.
     
-4.  Home page will refresh with selected breed
+4.  Home page will refresh with the selected breed
     
 
 ### View Sub-Breeds
@@ -145,9 +109,9 @@ To get started with the DogoApp, follow these steps:
     
 3.  Select a dog breed from the list.
 
-4. Select a dog sub breed from the next list.
+4. Select a dog subbreed from the next list.
     
-5.  Home page will refresh with selected breed,sub breed
+5.  The home page will refresh with selected breed, sub-breed
     
 
 ### Gallery View (List of Dog images)
@@ -168,7 +132,7 @@ To get started with the DogoApp, follow these steps:
 2.  Tap  the "Sub Breed" Tile.
     
 3.  Select a dog breed from the list.
-4. Select a dog sub breed for the selected breed from the list.
+4. Select a dog subbreed for the selected breed from the list.
     
 5.  Browse through the collection of dog images.
 
