@@ -33,27 +33,6 @@ DogoApp the main app for the challenge user interface built on top of the Dogo A
 - Get a list of dog breeds.
 - Get a list of sub-breeds for a specific breed.
 
-
-  
-
-
-
-## Overview
-
-DogoApp is a user interface built on top of the Dogo API and the `dogos_repository`. It allows users to perform the following actions:
-
-- View random dog images.
-- Select a specific dog breed.
-- View a list of sub-breeds for a selected breed.
-- View a gallery of dog images based on breed or sub-breed.
-
-## Features
-
-- Retrieve random dog images.
-- Get a list of dog breeds.
-- Get a list of sub-breeds for a specific breed.
-- View dog images by breed or sub-breed in a gallery.
-
 ## Installation
 
 To use the DogoApp, follow these installation instructions:
