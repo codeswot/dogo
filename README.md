@@ -70,8 +70,9 @@ To use the DogoApp, follow these installation instructions:
     
 4.  Launch the app:
     shellCopy code
-    `flutter run` 
-    
+    `flutter run` ```
+
+   <img src="https://github.com/codeswot/dogo/blob/main/assets/dogo.gif" alt="home" width="200"/>
 
 The app should now be up and running on your device or emulator.
 
@@ -84,10 +85,8 @@ To get started with the DogoApp, follow these steps:
 1.  Launch the app on your device or emulator.
     
 2.  You will be presented with the main screen, which displays a random dog image.
-  <img src="[drawing.jpg](https://github.com/codeswot/dogo/blob/main/assets/ss_home.png)" alt="home" width="200"/>
-
     
-4.  Explore the app's features using the navigation options provided.
+3.  Explore the app's features using the navigation options provided.
             
 
 ### Select a Dog Breed
