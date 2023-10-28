@@ -54,14 +54,6 @@ cd dogo/
   ```
 
 
-  
-Certainly! Here's a template for documenting the main app. Please note that you should tailor the documentation to your specific app, providing details about its functionality and usage.
-
-markdownCopy code
-
-``# DogoApp Documentation
-
-DogoApp is a Dart application that provides a user-friendly interface to interact with the Dogo API and retrieve random dog images, dog breeds, and sub-breeds. This documentation provides an overview of the app's features, installation instructions, and usage examples.
 
 ## Table of Contents
 
@@ -128,7 +120,8 @@ To get started with the DogoApp, follow these steps:
 1.  Launch the app on your device or emulator.
     
 2.  You will be presented with the main screen, which displays a random dog image.
-![Home Page](https://github.com/codeswot/dogo/blob/main/assets/ss_home.png)
+  <img src="[drawing.jpg](https://github.com/codeswot/dogo/blob/main/assets/ss_home.png)" alt="home" width="200"/>
+
     
 4.  Explore the app's features using the navigation options provided.
             
