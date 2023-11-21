@@ -1,6 +1,6 @@
 
 # Dogo Repository (Package) 🐾
-The `DogoRepository` is a Dart class that acts as an intermediary between the Dogo API and your application. It provides methods to fetch dog images and related data from the Dogo API.
+The `DogoRepository` is a Dart class that acts as an intermediary between the Dogo API and your application. It provides methods to fetch dog images and related data from the `DogosApi` .
 
 ## Table of Contents
 
