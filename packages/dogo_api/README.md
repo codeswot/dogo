@@ -1,6 +1,5 @@
 # Dogo Api (Package) 🐾
 
-###  [Deliveristo Flutter Frontend Coding Challenge](https://github.com/andreaperinu/flutter-challenge#deliveristo-flutter-frontend-coding-challenge) 
 
 A Dart library for interacting with the Dogo API to retrieve random dog images, dog breeds, sub-breeds, and more.
 
