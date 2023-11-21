@@ -1,8 +1,7 @@
 
 # Dogo App 🐾
 
-### [Deliveristo Flutter Frontend Coding Challenge](https://github.com/andreaperinu/flutter-challenge#deliveristo-flutter-frontend-coding-challenge)
-**Thank you for giving the oppotunity to work on this challenge, here is explanation on my solution.**
+
 
 ## Table of Contents
 
@@ -14,7 +13,7 @@
 
 ## Overview
 
-DogoApp the main app for the challenge user interface built on top of the Dogo API and the `dogos_repository`. It allows users to perform the following actions:
+DogoApp is the user interface built on top of the Dogo API and the `dogos_repository`. It allows users to perform the following actions:
 
   - View random dog images.
 - Select a specific dog breed.
